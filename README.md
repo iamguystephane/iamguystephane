@@ -38,7 +38,6 @@
   <img src="https://devicons.railway.com/i/nextjs-dark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://devicons.railway.com/i/react.svg" height="40" alt="rust logo"  />
-  <img width="12" />
   <img src="https://devicons.railway.com/i/nodejs.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://devicons.railway.com/i/mongodb.svg" height="40" alt="dot-net logo"  />
