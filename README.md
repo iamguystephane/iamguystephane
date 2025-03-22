@@ -47,21 +47,6 @@
   <img width="12" />
   <img src="https://devicons.railway.com/i/java.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" height="40" alt="circleci logo"  />
-  <img width="12" />![image](https://github.com/user-attachments/assets/2a6fa2b8-e4ba-4a47-a4ae-761f423b3762)
-" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg"  height="40">
+  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fshadcn-ui%2Fui&psig=AOvVaw291Df7CpX8fTQVtdqEOmG4&ust=1742771119797000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC2wMDmnowDFQAAAAAdAAAAABAE"  height="40">
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
