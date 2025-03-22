@@ -48,5 +48,7 @@
   <img src="https://devicons.railway.com/i/java.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/t/58/tailwind-css.svg"  height="40">
-  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fshadcn-ui%2Fui&psig=AOvVaw291Df7CpX8fTQVtdqEOmG4&ust=1742771119797000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC2wMDmnowDFQAAAAAdAAAAABAE"  height="40">
+  <img src="https://devicons.railway.com/i/cplusplus.png"  height="40">
+  <img src="https://devicons.railway.com/i/c.svg"  height="40">
+  
 </div>
