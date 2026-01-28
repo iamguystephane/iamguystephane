@@ -23,20 +23,9 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
 
 <p align="left">
-<a href="https://linkedin.com/in/vineetkumargupta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetkumargupta02" height="30" width="40" /></a>
-<a href="https://instagram.com/_.vini._02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.vini._02_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vineetkumar02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vineetkumar02" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vineetkumar02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vineetkumar02" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vineetkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vineetkumar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vineetkumar02" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vineetkumar02" height="30" width="40" /></a>
-<a href="https://codepen.io/vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vineetkumar02" height="30" width="40" /></a>
-<a href="https://codesandbox.com/vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vineetkumar02" height="30" width="40" /></a>
-<a href="https://dribbble.com/vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="vineetkumar02" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25050928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25050928" height="30" width="40" /></a>
-<a href="https://medium.com/@vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vineetkumar02" height="30" width="40" /></a>
-<a href="https://dev.to/vineetkumar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vineetkumar02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamguystephane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineetkumargupta02" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iamguystephane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.vini._02_" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vineetkumar02" height="30" width="40" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
