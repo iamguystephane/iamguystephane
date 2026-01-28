@@ -12,7 +12,7 @@
 
 <img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
-- 👨‍💻 Visit [My Portfolio Site](https://guy-stephane.vercel.app) for more details about me.
+- 👨‍💻 Visit [My Portfolio Site](https://guystephane.vercel.app) for more details about me.
 - 📫 How to reach me **gstephane138@gmail.com**
 - 💬 Ask me about **MERN, DEVOPS, React-Native, Cloud Computing, etc.**
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
