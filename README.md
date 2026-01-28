@@ -47,6 +47,8 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/iamguystephane/iamguystephane/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamguystephane/iamguystephane/output/github-contribution-grid-snake-dark.svg?v=2025-01-29" alt="Snake animation" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=16"/>
