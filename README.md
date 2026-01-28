@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Hashir%20Akbar%20&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="HelloWorld 👋, I'm Hashir Akbar" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Hashir%20Akbar%20&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="HelloWorld 👋, I'm Guy Stephane" />
 
 <hr></hr>
 
@@ -12,12 +12,12 @@
 
 <img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
-- 👨‍💻 Visit [My Portfolio Site](https://vineet-portfolio-site.vercel.app) for more details about me.
-- 📫 How to reach me **HashirAkbar@gmail.com**
-- 💬 Ask me about **Anything**
+- 👨‍💻 Visit [My Portfolio Site](https://guy-stephane.vercel.app) for more details about me.
+- 📫 How to reach me **gstephane138@gmail.com**
+- 💬 Ask me about **MERN, DEVOPS, React-Native, Cloud Computing, etc.**
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤️ I Love writing code and learning new tools
-- ⚡ Fun fact **I think I'm funny 😅**
+- ⚡ Fun fact **I assume coding to be a hobby. My hobby at least. 😅**
 
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect with me:** ️
