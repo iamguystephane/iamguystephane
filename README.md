@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Hashir%20Akbar%20&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="HelloWorld 👋, I'm Guy Stephane" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Guy%20Stehane%20&fontSize=30&fontAlignY=80&color=gradient&customColorList=36" alt="HelloWorld 👋, I'm Guy Stephane" />
 
 <hr></hr>
 
